@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Muhamad Faiz Abdul Rahman.
+- 👋 Hi, I’m Muhamad Faiz Abdul Rahman. You can call me Faiz. 
 - 👀 I’m interested in data analysis.
 - 🌱 I’m currently learning SQL and advanced Excel.
 - 📫 Reach me on my LinkedIn @ https://www.linkedin.com/in/muhamad-faiz-abdul-rahman/
